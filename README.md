@@ -18,13 +18,17 @@
 
 - **BlueLight.itermcolors** - 浅蓝色主题配色方案
 - **BluePurple.itermcolors** - 蓝色与紫色混合色调
+- **BlueSand.itermcolors** - 蓝沙主题配色方案
 - **BlueSlik.itermcolors** - 丝滑蓝色调色板
 - **BlueYellowGradient.itermcolors** - 从蓝色过渡到黄色的渐变
+- **Bluebox.itermcolors** - 蓝色盒子主题
 - **colorGradient.itermcolors** - 多色渐变主题
 - **DarkBlue.itermcolors** - 深蓝色主题方案
 - **DarkGrey.itermcolors** - 深灰色调色板
+- **LAMountain.itermcolors** - 灵感来自洛杉矶山脉
 - **LASunset.itermcolors** - 灵感来自洛杉矶日落
 - **lightGreen.itermcolors** - 浅绿色主题方案
+- **MicrosoftLandscape.itermcolors** - 微软风景主题
 - **Nord.itermcolors** - 基于流行的 Nord 调色板
 - **nova.itermcolors** - 新星主题配色方案
 - **SandDunes.itermcolors** - 温暖的沙漠色调
@@ -89,13 +93,17 @@ The repository currently includes the following color schemes:
 
 - **BlueLight.itermcolors** - A light blue themed color scheme
 - **BluePurple.itermcolors** - A blend of blue and purple tones
+- **BlueSand.itermcolors** - A blue sand themed color scheme
 - **BlueSlik.itermcolors** - A silky blue color palette
 - **BlueYellowGradient.itermcolors** - A gradient transitioning from blue to yellow
+- **Bluebox.itermcolors** - A blue box themed scheme
 - **colorGradient.itermcolors** - A multi-color gradient theme
 - **DarkBlue.itermcolors** - A dark blue themed scheme
 - **DarkGrey.itermcolors** - A dark grey color palette
+- **LAMountain.itermcolors** - Inspired by Los Angeles mountains
 - **LASunset.itermcolors** - Inspired by Los Angeles sunsets
 - **lightGreen.itermcolors** - A light green themed scheme
+- **MicrosoftLandscape.itermcolors** - Microsoft landscape themed scheme
 - **Nord.itermcolors** - Based on the popular Nord color palette
 - **nova.itermcolors** - A nova-inspired color scheme
 - **SandDunes.itermcolors** - Warm sand and desert tones
